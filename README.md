@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alejandro 👋</h1>
+<h1 align="center">Hi there, I'm Manuel 👋</h1>
 
 <h3 align="center">Just another developer who loves sharing their knowledge with others 🚀</h3>
 
@@ -10,7 +10,7 @@ I am a software developer with a strong foundation forged through hands-on codin
 
 My focus is on solving real-world problems through practical study projects, bridging the gap between frontend interfaces and robust backend architectures. I am driven by continuous growth: my roadmap includes transitioning into a Systems Engineering degree, followed by a Master's in Software Development and a specialization in Cybersecurity.
 
-Beyond writing code, I am actively improving my English (currently A2) and I am always looking for new challenges that push my technical boundaries.
+Beyond writing code, I am actively improving my English (currently B1) and I am always looking for new challenges that push my technical boundaries.
 
 ---
 
