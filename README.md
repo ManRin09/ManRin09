@@ -18,7 +18,7 @@ Beyond writing code, I am actively improving my English (currently B1) and I am 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,postgres,mysql,react,django,dotnet,angular,docker,git,github,nodejs,express" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,postgres,mysql,react,tailwind,django,dotnet,angular,docker,git,github,nodejs,express" alt="My Skills" />
   </a>
 </p>
 
