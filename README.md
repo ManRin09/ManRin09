@@ -22,8 +22,5 @@ Beyond writing code, I am actively improving my English (currently B1) and I am 
   </a>
 </p>
 
----
-
-### 📊 GitHub Analytics
 
 <!-- Aquí puedes agregar más adelante tus estadísticas de GitHub si lo deseas -->
