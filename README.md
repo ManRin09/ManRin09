@@ -28,7 +28,7 @@
 #### **Backend & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,express,nestjs,postgres,mysql,mongodb" alt="Backend Technologies" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,express,nestjs,postgres,mysql,mongodb,microsoft sql server" alt="Backend Technologies" />
   </a>
 </p>
 
