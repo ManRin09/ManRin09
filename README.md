@@ -42,7 +42,7 @@
 #### **DevOps, Tools & Environments**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,nginx,postman" alt="Tools & Environments" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,nginx,postman,swagger" alt="Tools & Environments" />
   </a>
 </p>
 
